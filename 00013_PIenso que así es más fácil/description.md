@@ -3,7 +3,7 @@ Por suerte existe una herramienta que va a simplificar nuestra tarea de ahora en
 Las variables nos permiten nombrar y reutilizar _valores_. Similar a cómo los procedimientos y funciones nos permiten dar nombres y reutilizar soluciones a problemas más pequeños. Por ejemplo, si hacemos:
 
 ``` javascript
-primerMes = "enero"
+let primerMes = "enero"
 ```
 
 estamos _asignándole_ el valor `"enero"` a la variable `primerMes`. En criollo, estamos dándole ese valor a la variable. :relieved:
