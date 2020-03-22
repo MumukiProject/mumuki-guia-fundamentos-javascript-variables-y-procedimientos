@@ -1,0 +1,7 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - "* DeclaresComputationWithArity0:aumentarFortuna"
+  then: tenés que declarar un procedimiento que no tome argumentos
