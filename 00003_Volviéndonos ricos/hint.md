@@ -8,6 +8,6 @@
 // Aumento mi fortuna:
 ム aumentarFortuna() 
 // Consulto de nuevo mi fortuna:
-ムpesosEnMiBilletera  // ¡Aumentó!
+ム pesosEnMiBilletera  // ¡Aumentó!
 1000
 ```
