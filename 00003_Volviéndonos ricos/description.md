@@ -12,4 +12,5 @@ function tenerAccidenteConVelociraptores() {
 
 > ¡Ahora vamos a hacer algo de dinero :moneybag:!
 >
-> Escribí un procedimiento `aumentarFortuna` que duplique el valor de la variable global `pesosEnMiBilletera`. No declares la variable, ya lo hicimos nosotros por vos (con una cantidad secreta de dinero :wink:)
+> Escribí un procedimiento `aumentarFortuna` que duplique el valor de la variable global `pesosEnMiBilletera`. No declares la variable, ya lo hicimos nosotros por vos (con una cantidad secreta de dinero :wink:. 
+> 
