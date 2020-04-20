@@ -10,14 +10,9 @@ O si queremos un programa que tire tres veces los dados e imprima sus resultados
 
 ```javascript
 imprimir("Tirando dados");
-
-let primeraTirada = tirarDado();
-let segundaTirada = tirarDado();
-let terceraTirada = tirarDado();
-
-imprimir("La primera tirada dio " + primeraTirada);
-imprimir("La segunda tirada dio " + segundaTirada);
-imprimir("La tercera tirada dio " + terceraTirada);
+imprimir("La primera tirada dio " + tirarDado());
+imprimir("La segunda tirada dio " + tirarDado());
+imprimir("La tercera tirada dio " + tirarDado());
 ```
 
 > Escribí y enviá este programa
