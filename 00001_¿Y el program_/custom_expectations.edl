@@ -1,0 +1,2 @@
+expectation "llama a `tirarDado` tres veces":
+  count(calls `tirarDado`) = 3;
