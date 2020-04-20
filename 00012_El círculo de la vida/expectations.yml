@@ -11,4 +11,4 @@ expectations:
   inspection: DeclaresComputationWithArity1:perimetroCirculo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity1:perimetroCirculo
+  inspection: DeclaresComputationWithArity1:areaCirculo
