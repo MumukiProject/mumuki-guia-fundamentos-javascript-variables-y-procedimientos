@@ -15,6 +15,6 @@ imprimir("La segunda tirada dio " + tirarDado());
 imprimir("La tercera tirada dio " + tirarDado());
 ```
 
-> Escribí y enviá este programa
+> Copiá y enviá este programa
 
 
