@@ -15,7 +15,4 @@ describe("", function() {
     pesoPromedioPersonaEnKilogramos = 80;
     assert(ascensorSobrecargado(5))
   })
-
-    
-
 })

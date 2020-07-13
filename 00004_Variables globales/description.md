@@ -1,6 +1,6 @@
 Entonces, ¿es necesario darle valor a nuestras variables antes de usarlas?
 
-¡Si! :smile: Cuando declarás una variable tenés que darle un valor inicial, lo cual se conoce como _inicializar_ la variable.
+¡Sí! :smile: Cuando declarás una variable tenés que darle un valor inicial, lo cual se conoce como _inicializar_ la variable.
 
 ¡Y sorpresa! Podemos declarar variables tanto directamente en el programa, como dentro de una `function`:
 
@@ -33,7 +33,7 @@ function puedeLlevar(pesoEquipaje) {
 }
 ```
 
-> Veamos si queda claro: escribí una función `ascensorSobrecargado`, que toma una cantidad de personas y dice si entre todos superan la carga máxima del ascensor.
+> Veamos si queda claro: definí una función `ascensorSobrecargado`, que toma una cantidad de personas y dice si entre todos superan la carga máxima del ascensor.
 >
 > Tené en cuenta que se estima que la carga máxima del ascensor en 300kg, y que el peso promedio por persona es una variable global: `pesoPromedioPersonaEnKilogramos`.
 
