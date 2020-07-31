@@ -42,4 +42,4 @@ function puedeLlevar(pesoEquipaje) {
 > Tené en cuenta que nuestra función va a utilizar dos variables globales:
 >
 * `pesoPromedioPersonaEnKilogramos`, la cual ya está declarada,
-* `cargaMaximaEnKilogramos` que vas tenés que declarar.
+* `cargaMaximaEnKilogramos` que vas a tener que declarar.
