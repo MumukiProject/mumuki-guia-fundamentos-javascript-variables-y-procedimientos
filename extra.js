@@ -16,7 +16,6 @@ function longitud(unString) /*<elipsis-for-student@*/ {
 //  ム longitud("hola")
 //  4
 
-//==============================================================
 
 function convertirEnMayuscula(unString) /*<elipsis-for-student@*/ {
   return unString.toUpperCase()
@@ -28,7 +27,6 @@ function convertirEnMayuscula(unString) /*<elipsis-for-student@*/ {
 //  ム convertirEnMayuscula("hola")
 //  "HOLA"
 
-//==============================================================
 
 function comienzaCon(unString, otroString) /*<elipsis-for-student@*/ {
   return unString.startsWith(otroString);
@@ -39,8 +37,6 @@ function comienzaCon(unString, otroString) /*<elipsis-for-student@*/ {
 //
 //  ム comienzaCon("hola todo el mundo", "hola todo")
 //  true
-
-//==============================================================
 
 /*<hidden-for-student@*/
 // ==============
@@ -81,7 +77,6 @@ function imprimir(unString) /*<elipsis-for-student@*/ {
 //  ム imprimir("¡estoy imprimiendo!")
 //  ¡estoy imprimiendo!
 
-//==============================================================
 
 function tirarDado() /*<elipsis-for-student@*/ {
   return Math.floor(Math.random() * 6) + 1
